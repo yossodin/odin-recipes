@@ -1,0 +1,1 @@
+This project will contain an index page linking to a few recipes. It will initially be built in HTML, showcasing basic features, and will later be visually improved with CSS.
